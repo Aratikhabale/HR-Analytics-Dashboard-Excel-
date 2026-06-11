@@ -65,3 +65,6 @@ Education Field
 - Bachelor's degree holders show the highest attrition count.
   
 - Single employees have higher attrition than married employees
+
+
+- Dashboard Imteraction <a href="https://github.com/Aratikhabale/HR-Analytics-Dashboard-Excel-/blob/main/Screenshot%20(2).png"> View Dashboard </a>
