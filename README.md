@@ -1,14 +1,20 @@
 # HR-Analytics-Dashboard-Excel-
-📊 Project Overview This project is an HR Analytics Dashboard developed in Microsoft Excel to analyze employee data and identify factors affecting employee attrition. The dashboard provides insights into workforce demographics, employee satisfaction, departmental attrition, and workforce trends through interactive visualizations.
+📊 Project Overview 
+
+-This project is an HR Analytics Dashboard developed in Microsoft Excel to analyze employee data and identify factors affecting employee attrition. The dashboard provides insights into workforce demographics, employee satisfaction, departmental attrition, and workforce trends through interactive visualizations.
 
 
 🎯 Project Objectives :
 
-Analyze employee attrition patterns.
-Monitor workforce demographics.
-Identify departments with high employee turnover.
-Evaluate attrition by age, education, and marital status.
-Support data-driven HR decision-making.
+- Analyze employee attrition patterns.
+  
+- Monitor workforce demographics.
+  
+- Identify departments with high employee turnover.
+  
+- Evaluate attrition by age, education, and marital status
+
+- Support data-driven HR decision-making.
 
 
 📂 Dataset
@@ -18,41 +24,41 @@ Support data-driven HR decision-making.
 
 📊 Dashboard Analysis
 
--Employee Overview :
+1] Employee Overview :
 
-Displays overall workforce statistics including total employees, active employees, attrition count, attrition rate, and average age.
+- Displays overall workforce statistics including total employees, active employees, attrition count, attrition rate, and average age.
 
--Gender Distribution :
+2] Gender Distribution :
 
-Shows the percentage of male and female employees in the organization.
+- Shows the percentage of male and female employees in the organization.
 
--Education-wise Attrition :
+3] Education-wise Attrition :
 
-Analyzes employee attrition based on educational qualifications.
+- Analyzes employee attrition based on educational qualifications.
 
--Job Role-wise Attrition :
+4] Job Role-wise Attrition :
 
-Identifies job roles experiencing the highest employee turnover.
+- Identifies job roles experiencing the highest employee turnover.
 
--Department-wise Attrition :
+5] Department-wise Attrition :
 
-Compares attrition across different departments such as HR, Sales, and R&D.
+- Compares attrition across different departments such as HR, Sales, and R&D.
 
--Age Group Analysis :
+6] Age Group Analysis :
 
-Shows attrition trends across various age groups.
+- attrition trends across various age groups.
 
--Marital Status Analysis :
+7] Marital Status Analysis :
 
-Analyzes attrition based on employee marital status.
+- Analyzes attrition based on employee marital status.
 
--Interactive Filters :
+8] Interactive Filters :
 
-Users can filter data by :-
+** Users can filter data by :-
 
-Department
+- Department
 
-Education Field
+- Education Field
 
 🔍 Key Insights
 
@@ -75,15 +81,15 @@ Education Field
 
 <img width="1201" height="535" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/1a7ba0cb-7a5b-4843-9557-6778512f4813" />
 
--Conclusion :-
+** Conclusion :-
 
-The HR Analytics Dashboard provides insights into employee attrition and workforce trends.
+- The HR Analytics Dashboard provides insights into employee attrition and workforce trends.
 
-It helps identify departments, job roles, and age groups with high attrition rates.
+- It helps identify departments, job roles, and age groups with high attrition rates.
 
-The dashboard enables HR teams to make data-driven decisions.
+- The dashboard enables HR teams to make data-driven decisions.
 
-Interactive visualizations make employee data easy to understand and analyze.
+- Interactive visualizations make employee data easy to understand and analyze.
 
-Overall, the project demonstrates effective use of Microsoft Excel for HR analytics and Reporting.
+- Overall, the project demonstrates effective use of Microsoft Excel for HR analytics and Reporting.
 
