@@ -68,3 +68,22 @@ Education Field
 
 
 - Dashboard Imteraction <a href="https://github.com/Aratikhabale/HR-Analytics-Dashboard-Excel-/blob/main/Screenshot%20(2).png"> View Dashboard </a>
+
+
+
+📸 Dashboard 
+
+<img width="1201" height="535" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/1a7ba0cb-7a5b-4843-9557-6778512f4813" />
+
+-Conclusion :-
+
+The HR Analytics Dashboard provides insights into employee attrition and workforce trends.
+
+It helps identify departments, job roles, and age groups with high attrition rates.
+
+The dashboard enables HR teams to make data-driven decisions.
+
+Interactive visualizations make employee data easy to understand and analyze.
+
+Overall, the project demonstrates effective use of Microsoft Excel for HR analytics and Reporting.
+
