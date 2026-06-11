@@ -48,8 +48,20 @@ Analyzes attrition based on employee marital status.
 
 -Interactive Filters :
 
-Users can filter data by:-
+Users can filter data by :-
 
 Department
 
 Education Field
+
+🔍 Key Insights
+
+- Sales Executive role has the highest attrition.
+  
+- Employees aged 25–34 contribute the highest attrition.
+  
+- R&D department experiences the highest employee turnover.
+  
+- Bachelor's degree holders show the highest attrition count.
+  
+- Single employees have higher attrition than married employees
