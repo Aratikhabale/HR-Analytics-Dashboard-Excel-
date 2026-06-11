@@ -18,37 +18,38 @@ Support data-driven HR decision-making.
 
 📊 Dashboard Analysis
 
--Employee Overview
+-Employee Overview :
 
 Displays overall workforce statistics including total employees, active employees, attrition count, attrition rate, and average age.
 
--Gender Distribution
+-Gender Distribution :
 
 Shows the percentage of male and female employees in the organization.
 
--Education-wise Attrition
+-Education-wise Attrition :
 
 Analyzes employee attrition based on educational qualifications.
 
--Job Role-wise Attrition
+-Job Role-wise Attrition :
 
 Identifies job roles experiencing the highest employee turnover.
 
--Department-wise Attrition
+-Department-wise Attrition :
 
 Compares attrition across different departments such as HR, Sales, and R&D.
 
--Age Group Analysis
+-Age Group Analysis :
 
 Shows attrition trends across various age groups.
 
--Marital Status Analysis
+-Marital Status Analysis :
 
 Analyzes attrition based on employee marital status.
 
--Interactive Filters
+-Interactive Filters :
 
-Users can filter data by:
+Users can filter data by:-
 
 Department
+
 Education Field
